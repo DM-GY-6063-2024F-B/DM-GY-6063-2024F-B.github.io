@@ -87,7 +87,7 @@ th {
   top: 0;
   padding-left: 0.75rem;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
 
   @media screen and (max-width: $mobile-max) {
     min-width: 100%;
