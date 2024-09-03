@@ -7,7 +7,7 @@
 - Instructor: [Thiago Hersan](https://thiagohersan.com)
 - email: [thiago.hersan@nyu.edu](mailto:thiago.hersan@nyu.edu)
 - Website: [https://6063B.github.io](https://6063B.github.io)
-- [Brightspace](https://brightspace.nyu.edu/d2l/home/407563)
+- [Brightspace](https://brightspace.nyu.edu/d2l/home/407563) (for assignments)
 - Class meeting: Mondays 6:30pm - 9:20pm 370 Jay Street (Room 307)
 - Office Hours: Mondays & Tuesdays 11:00am - 1:00pm 370 Jay Street Room 325A (IDM Grad Lab)
 
