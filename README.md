@@ -1,21 +1,21 @@
 ---
 ---
-# NYU | Tandon School of Engineering | Integrated Design & Media
+# NYU | Tandon School of Engineering<br>Integrated Design & Media
 
 # DM-GY 6063 | Creative Coding<br>Fall 2024, Section B
 
 - Instructor: [Thiago Hersan](https://thiagohersan.com)
 - email: [thiago.hersan@nyu.edu](mailto:thiago.hersan@nyu.edu)
-- Office hours: Hours TBD 370 Jay Street (IDM Grad Lab Room 325A)
-- Class meeting: Mondays 6:30pm - 9:20pm 370 Jay Street (Room 307)
 - Website: [https://6063B.github.io](https://6063B.github.io)
-- [Brightspace](https://brightspace.nyu.edu/d2l/home/312200) (for assignment submissions)
+- [Brightspace](https://brightspace.nyu.edu/d2l/home/407563)
+- Class meeting: Mondays 6:30pm - 9:20pm 370 Jay Street (Room 307)
+- Office Hours: Mondays & Tuesdays 11:00am - 1:00pm 370 Jay Street Room 325A (IDM Grad Lab)
 
 ## Important Dates (for this course)
 
 - 2024/09/09: First day of class
 - 2024/09/16: Last day to Add/Drop class
-- 2024/10/14: Break, no class
+- 2024/10/14: NO CLASS ! but
 - 2024/10/15: CLASS ON TUESDAY !
 - 2024/11/25: Last day to withdraw from class
 - 2024/12/09: Last lecture
@@ -89,9 +89,8 @@ The grade for this course will be determined according to the following:
 
 | Activity | % of Final Grade |
 | --- | --- |
-| Weekly Programming Assignments | 25% |
+| Weekly Programming Assignments | 30% |
 | Weekly Reading Responses | 20% |
-| Quizzes | 5% |
 | Midterm Project | 20% |
 | Final Project | 30% |
 
