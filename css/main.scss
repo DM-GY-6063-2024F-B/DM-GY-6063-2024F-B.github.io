@@ -35,7 +35,7 @@ body {
   flex-direction: row;
   width: 100%;
   justify-content: space-evenly;
-  justify-content: center;
+  justify-content: flex-start;
   overflow-y: scroll;
 
   @media screen and (max-width: $mobile-max) {
@@ -85,7 +85,7 @@ th {
   max-width: 360px;
   height: 100vh;
   top: 0;
-  padding-left: 0.75rem;
+  padding-left: 4rem;
   justify-content: center;
   align-items: flex-start;
 
