@@ -67,10 +67,6 @@ Each week you will also read and respond to a short text about programming, tech
 
 The responses will be short, 200-word texts written to express your opinion and feelings about the text and the subject.
 
-### Class Participation
-
-Each week we will review the homework assignment and the readings during class. You are expected to be actively engaged in these discussions, whether it's presenting your work or receiving feedback from other students.
-
 ### Projects
 
 There will be two larger multi-week projects throughout the semester, the first around week 5 and the other around week 11.
@@ -79,9 +75,9 @@ The shape, form and content of these projects are largely up to you to define, b
 
 You will be responsible for keeping a blog that documents progress of the project, and for presenting the final version of your project in class.
 
-### Quizzes
+### Participation
 
-We will have sporadic online take-home quizzes. These will cover technical concepts and will be used not only to test your knowledge, but mostly to give me information about how you’re progressing in the class.
+After each class, students will submit a short reaction text via Brigthspace, detailing any questions, or summarizing what they learned in the class.
 
 ## Grading
 
@@ -90,7 +86,8 @@ The grade for this course will be determined according to the following:
 | Activity | % of Final Grade |
 | --- | --- |
 | Weekly Programming Assignments | 30% |
-| Weekly Reading Responses | 20% |
+| Weekly Reading Responses | 15% |
+| Weekly Participation Responses | 5% |
 | Midterm Project | 20% |
 | Final Project | 30% |
 
@@ -119,7 +116,6 @@ Letter grades for the entire course will be assigned as follows:
 - Reading: Program or Be Programmed (Intro) by Douglas Rushkoff
 
 ### Week 02 (2024/09/16)
-- Review Assignment & Reading
 - Math Review
 - What is Git
 - p5js: Functions and variables, pixels and canvas, transforms
@@ -127,34 +123,29 @@ Letter grades for the entire course will be assigned as follows:
 - Reading: Software Studies: A Lexicon (Intro) by Matthew Fuller
 
 ### Week 03 (2024/09/23)
-- Review Assignment & Reading
 - p5js: Loops and conditionals, variation and randomness
 - Assignment: Drawing many shapes using loops and randomness
 - Reading: Glitch Feminism (Intro) by Legacy Russell / [Cyberfeminism Index](https://cyberfeminismindex.com/)
 
 ### Week 04 (2024/09/30)
-- Review Assignment & Reading
 - Pseudocode
 - p5js: Functions, time and movement, mouse and events
 - Assignment: Interactive and time-based shapes
 - Reading: Art of Interactive Design (Chp 1) by Chris Crawford / [The Media Art Pose](http://www.flong.com/archive/texts/essays/essay_pose/index.html) by Golan Levin
 
 ### Week 05 (2024/10/07)
-- Review Assignment & Reading
 - p5js: Arrays and dictionaries, data, CSV and JSON
 - Assignment: Data visualization
 - Reading: W. E. B. Du Bois's Data Portraits (Intro and Plates) by Britt Rusert and Whitney Battle-Baptiste
 - Midterm project: Proposal
 
 ### Week 06 (2024/10/15)
-- Review Assignment & Reading
 - p5js: Objects, text and strings
 - Assignment: Visual poetry
 - Reading: Ways of seeing ([Part 1](https://www.youtube.com/watch?v=0pDE4VX_9Kk)) by John Berger
 - Midterm project: Pseudocode
 
 ### Week 07 (2024/10/21)
-- Review Assignment & Reading
 - Some notes on debugging
 - p5js: More objects, images and pixels
 - Assignment: Midterm project
@@ -166,20 +157,17 @@ Letter grades for the entire course will be assigned as follows:
 - Reading: Nonhuman Photography (Intro) by Joanna Zylinska
 
 ### Week 09 (2024/11/04)
-- Review Assignment & Reading
 - p5js: ML and image and audio processing
 - Assignment: Using the camera as an input device
 - Reading: The Atlas of AI (Intro) by Kate Crawford / [New Extractivism](https://extractivism.online/) by Vladan Joler
 
 ### Week 10 (2024/11/11)
-- Review Assignment & Reading
 - Working with electricity
 - Arduino: Setup, wires, outputs, analog and digital
 - Assignment: Visualizing time (again)
 - Reading: Race After Technology (Intro) by Ruha Benjamin
 
 ### Week 11 (2024/11/18)
-- Review Assignment & Reading
 - Finite State Machines
 - Analog vs Digital
 - Arduino: More I/O, serial port
@@ -188,20 +176,17 @@ Letter grades for the entire course will be assigned as follows:
 - Final Project: Description
 
 ### Week 12 (2024/11/25)
-- Review Assignment & Reading
 - Arduino: More Analog Input, and Serial, WiFi and BLE communication
 - Assignment: Physical interfaces: controlling p5js with arduino
 - Reading: The Marvelous Clouds (Intro) by John Durham Peters / [Worlds In Figures](https://worldsinfigures.com/tutorial) by Evan Roth
 
 ### Week 13 (2024/12/02)
-- Review Assignment & Reading
 - P5js sound library revisited
 - Final Project: Workshop
 - Reading: The Question Concerning Technology in China (Intro) by Yuk Hui
 
 ### Week 14 (2024/12/09)
 - Guest Speaker
-- Discuss Reading
 - Final Project: Progress Presentation
 - Assignment: Final Project
 
