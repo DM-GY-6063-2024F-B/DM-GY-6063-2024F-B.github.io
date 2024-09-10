@@ -237,7 +237,7 @@ You are expected to attend all class sessions. Absences should be communicated a
 
 ### Late Assignments
 
-Let me know if you will be late with an assignment. You can always submit assignments late. Don't abuse this. If you wait to do a bunch of assignments together towards the end of the semester, they will most likely lack in quality.
+Let me know if you will be late with an assignment. You can always submit assignments late. Don't abuse this. If you wait to do a lot of assignments together towards the end of the semester, they will most likely lack in quality, and you will have missed the opportunity to improve them gradually through weekly feedbacks.
 
 ### "Incomplete" Grade
 
