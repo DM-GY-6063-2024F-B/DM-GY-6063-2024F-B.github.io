@@ -4,7 +4,7 @@
 
 - [Course website](https://6063B.github.io/)
 - [Course GitHub](https://github.com/DM-GY-6063-2024F-B/)
-- [Brightspace](https://brightspace.nyu.edu/d2l/home/312200)
+- [Brightspace](https://brightspace.nyu.edu/d2l/home/407563)
 - [Development Environment Setup](../setup/)
 - [p5js template repo](https://github.com/DM-GY-6063-2024F-B/p5js-template)
 
