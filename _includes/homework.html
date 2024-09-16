@@ -25,7 +25,9 @@
         <div>
           {{ forloop.index }}.
             <a href="{{ r.url }}">{{ r.title }}</a>
-            by {{ r.author }}<br>
+            {% if r.author %}
+              by {{ r.author }}<br>
+            {% endif %}
             {% if r.chapter %}
               <span class="avoidwrap">{{ r.chapter }}</span>
             {% endif %}
