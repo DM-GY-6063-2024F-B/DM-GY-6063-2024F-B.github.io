@@ -54,7 +54,7 @@ Additional reading materials will be distributed as PDFs throughout the semester
 ### Other
 
 - [A Brief Introduction to Debugging](https://vimeo.com/channels/debugging)
-- [A Field Guide To Debugging](https://p5js.org/learn/debugging.html)
+- [A Field Guide To Debugging](https://p5js.org/tutorials/field-guide-to-debugging/)
 
 ---
 
