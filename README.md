@@ -75,7 +75,7 @@ You will be responsible for keeping a blog that documents progress of the projec
 
 ### Participation
 
-After each class, students will submit a short reaction text via Brigthspace, detailing any questions, or summarizing what they learned in the class.
+After each class, students will submit a short reaction text via Brigthspace, detailing any questions, or summarizing what they learned in the class. These are always due on the day after class.
 
 ## Grading
 
