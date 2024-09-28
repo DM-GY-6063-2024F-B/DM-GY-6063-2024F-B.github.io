@@ -106,7 +106,7 @@ Letter grades for the entire course will be assigned as follows:
 
 ### Week 01 (2024/09/09)
 - Review Syllabus
-- Introduction
+- Introductions
 - What is Programming
 - Intro to p5.js
 - Setting up dev environment
@@ -119,41 +119,39 @@ Letter grades for the entire course will be assigned as follows:
 - Reading: Software Studies: A Lexicon (Intro) by Matthew Fuller
 
 ### Week 03 (2024/09/23)
-- p5js: Loops and conditionals, variation and randomness
-- Assignment: Drawing many shapes using loops and randomness
+- p5js: Loops and Functions
+- Assignment: Drawing many shapes using loops
 - Reading: Glitch Feminism (Intro) by Legacy Russell / [Cyberfeminism Index](https://cyberfeminismindex.com/)
 
 ### Week 04 (2024/09/30)
-- Pseudocode
-- p5js: Functions, time and movement, mouse and events
-- Assignment: Interactive and time-based shapes
+- p5js: Conditionals and randomness
+- Assignment: Random Patterns and Drawing Instructions
 - Reading: Art of Interactive Design (Chp 1) by Chris Crawford / [The Media Art Pose](http://www.flong.com/archive/texts/essays/essay_pose/index.html) by Golan Levin
 
 ### Week 05 (2024/10/07)
-- p5js: Arrays and dictionaries, data, CSV and JSON
-- Assignment: Data visualization
+- p5js: time and movement, mouse and events
+- Assignment: Interactive and time-based shapes
 - Reading: W. E. B. Du Bois's Data Portraits (Intro and Plates) by Britt Rusert and Whitney Battle-Baptiste
 - Midterm project: Proposal
 
 ### Week 06 (2024/10/15)
-- p5js: Objects, text and strings
-- Assignment: Visual poetry
+- p5js: Arrays and dictionaries, data, CSV and JSON
+- Assignment: Data visualization
 - Reading: Ways of seeing ([Part 1](https://www.youtube.com/watch?v=0pDE4VX_9Kk)) by John Berger
 - Midterm project: Pseudocode
 
 ### Week 07 (2024/10/21)
-- Some notes on debugging
-- p5js: More objects, images and pixels
+- p5js: Objects, text and strings
 - Assignment: Midterm project
 
 ### Week 08 (2024/10/28)
 - Midterm Project Presentations
-- p5js: The DOM and audio files
+- p5js: More objects, images and pixels
 - Assignment: Image manipulation and sound visualization
 - Reading: Nonhuman Photography (Intro) by Joanna Zylinska
 
 ### Week 09 (2024/11/04)
-- p5js: ML and image and audio processing
+- p5js: The DOM and audio files, image and audio processing
 - Assignment: Using the camera as an input device
 - Reading: The Atlas of AI (Intro) by Kate Crawford / [New Extractivism](https://extractivism.online/) by Vladan Joler
 
