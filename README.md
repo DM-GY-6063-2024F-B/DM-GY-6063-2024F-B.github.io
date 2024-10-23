@@ -126,62 +126,63 @@ Letter grades for the entire course will be assigned as follows:
 ### Week 04 (2024/09/30)
 - p5js: Conditionals and randomness
 - Assignment: Random Patterns and Drawing Instructions
-- Reading: Art of Interactive Design (Chp 1) by Chris Crawford / [The Media Art Pose](http://www.flong.com/archive/texts/essays/essay_pose/index.html) by Golan Levin
+- Reading: Grapefruit by Yoko Ono
 
 ### Week 05 (2024/10/07)
 - p5js: time and movement, mouse and events
-- Assignment: Interactive and time-based shapes
-- Reading: W. E. B. Du Bois's Data Portraits (Intro and Plates) by Britt Rusert and Whitney Battle-Baptiste
-- Midterm project: Proposal
+- Assignment: Interactive and time-based sketches
+- Reading: Art of Interactive Design (Chp 1) by Chris Crawford / [The Media Art Pose](http://www.flong.com/archive/texts/essays/essay_pose/index.html) by Golan Levin
 
 ### Week 06 (2024/10/15)
 - p5js: Arrays and dictionaries, data, CSV and JSON
 - Assignment: Data visualization
+- Reading: W. E. B. Du Bois's Data Portraits (Intro and Plates) by Britt Rusert and Whitney Battle-Baptiste
+- Midterm project: Proposal
+
+### Week 07 (2024/10/21)
+- p5js: Objects, images, text and strings
+- Assignment: Drawing with text
 - Reading: Ways of seeing ([Part 1](https://www.youtube.com/watch?v=0pDE4VX_9Kk)) by John Berger
 - Midterm project: Pseudocode
 
-### Week 07 (2024/10/21)
-- p5js: Objects, text and strings
+### Week 08 (2024/10/28)
+- More images, video, ml5
+- p5js: More objects, images and pixels
 - Assignment: Midterm project
 
-### Week 08 (2024/10/28)
+### Week 09 (2024/11/04)
 - Midterm Project Presentations
-- p5js: More objects, images and pixels
-- Assignment: Image manipulation and sound visualization
+- p5js: Noise, Vectors
+- Assignment: Using the camera as an input device
 - Reading: Nonhuman Photography (Intro) by Joanna Zylinska
 
-### Week 09 (2024/11/04)
-- p5js: The DOM and audio files, image and audio processing
-- Assignment: Using the camera as an input device
+### Week 10 (2024/11/11)
+- p5js: Classes, vectors, audio
+- Assignment: Sound visualization
 - Reading: The Atlas of AI (Intro) by Kate Crawford / [New Extractivism](https://extractivism.online/) by Vladan Joler
 
-### Week 10 (2024/11/11)
+### Week 11 (2024/11/18)
 - Working with electricity
 - Arduino: Setup, wires, outputs, analog and digital
 - Assignment: Visualizing time (again)
 - Reading: Race After Technology (Intro) by Ruha Benjamin
 
-### Week 11 (2024/11/18)
+### Week 12 (2024/11/25)
 - Finite State Machines
 - Analog vs Digital
 - Arduino: More I/O, serial port
 - Assignment: Password machine
-- Reading: Code and Clay, Data and Dirt (Intro) by Shannon Mattern
+- Reading: The Marvelous Clouds (Intro) by John Durham Peters / [Worlds In Figures](https://worldsinfigures.com/tutorial) by Evan Roth
 - Final Project: Description
 
-### Week 12 (2024/11/25)
+### Week 13 (2024/12/02)
 - Arduino: More Analog Input, and Serial, WiFi and BLE communication
 - Assignment: Physical interfaces: controlling p5js with arduino
-- Reading: The Marvelous Clouds (Intro) by John Durham Peters / [Worlds In Figures](https://worldsinfigures.com/tutorial) by Evan Roth
-
-### Week 13 (2024/12/02)
-- P5js sound library revisited
-- Final Project: Workshop
 - Reading: The Question Concerning Technology in China (Intro) by Yuk Hui
 
 ### Week 14 (2024/12/09)
-- Guest Speaker
-- Final Project: Progress Presentation
+- P5js sound library revisited
+- Final Project: Workshop
 - Assignment: Final Project
 
 ### Week 15 (2024/12/16)
