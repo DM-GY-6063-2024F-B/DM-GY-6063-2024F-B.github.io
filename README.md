@@ -152,7 +152,7 @@ Letter grades for the entire course will be assigned as follows:
 
 ### Week 09 (2024/11/04)
 - Midterm Project Presentations
-- p5js: Noise, Vectors
+- p5js: Noise, Classes
 - Assignment: Using the camera as an input device
 - Reading: Nonhuman Photography (Intro) by Joanna Zylinska
 
